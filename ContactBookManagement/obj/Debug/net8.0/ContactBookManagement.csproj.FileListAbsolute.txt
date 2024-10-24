@@ -1,0 +1,14 @@
+/Users/vinaykumar/practice/Santhosh/ContactBookManagement/ContactBookManagement/bin/Debug/net8.0/ContactBookManagement
+/Users/vinaykumar/practice/Santhosh/ContactBookManagement/ContactBookManagement/bin/Debug/net8.0/ContactBookManagement.deps.json
+/Users/vinaykumar/practice/Santhosh/ContactBookManagement/ContactBookManagement/bin/Debug/net8.0/ContactBookManagement.runtimeconfig.json
+/Users/vinaykumar/practice/Santhosh/ContactBookManagement/ContactBookManagement/bin/Debug/net8.0/ContactBookManagement.dll
+/Users/vinaykumar/practice/Santhosh/ContactBookManagement/ContactBookManagement/bin/Debug/net8.0/ContactBookManagement.pdb
+/Users/vinaykumar/practice/Santhosh/ContactBookManagement/ContactBookManagement/obj/Debug/net8.0/ContactBookManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinaykumar/practice/Santhosh/ContactBookManagement/ContactBookManagement/obj/Debug/net8.0/ContactBookManagement.AssemblyInfoInputs.cache
+/Users/vinaykumar/practice/Santhosh/ContactBookManagement/ContactBookManagement/obj/Debug/net8.0/ContactBookManagement.AssemblyInfo.cs
+/Users/vinaykumar/practice/Santhosh/ContactBookManagement/ContactBookManagement/obj/Debug/net8.0/ContactBookManagement.csproj.CoreCompileInputs.cache
+/Users/vinaykumar/practice/Santhosh/ContactBookManagement/ContactBookManagement/obj/Debug/net8.0/ContactBookManagement.dll
+/Users/vinaykumar/practice/Santhosh/ContactBookManagement/ContactBookManagement/obj/Debug/net8.0/refint/ContactBookManagement.dll
+/Users/vinaykumar/practice/Santhosh/ContactBookManagement/ContactBookManagement/obj/Debug/net8.0/ContactBookManagement.pdb
+/Users/vinaykumar/practice/Santhosh/ContactBookManagement/ContactBookManagement/obj/Debug/net8.0/ContactBookManagement.genruntimeconfig.cache
+/Users/vinaykumar/practice/Santhosh/ContactBookManagement/ContactBookManagement/obj/Debug/net8.0/ref/ContactBookManagement.dll
