@@ -125,7 +125,7 @@ namespace ContactBookManagement.ContactsManager
 
         private string AskBirthDate()
         {
-            Console.WriteLine("Enter Birth Date in the format (d MMM yyy)");
+            Console.WriteLine("Enter Birth Date in the format (d MMM yyy) ex: (1 Jan 1990)");
             string birthday = Console.ReadLine();
 
             if (CanStopAskingContactDetails(birthday)) return null;
@@ -136,7 +136,7 @@ namespace ContactBookManagement.ContactsManager
             }
             else
             {
-                Console.WriteLine("Please Enter Valid Birth Date in the Format (d MMM yyy)");
+                Console.WriteLine("Please Enter Valid Birth Date in the Format (d MMM yyy) ex: (1 Jan 1990)");
                 return AskBirthDate();
             }
         }
@@ -180,7 +180,7 @@ namespace ContactBookManagement.ContactsManager
             if (!contactBook.IsContactsEmpty())
             {
                 Console.WriteLine(contactBook.GetTotalBooksCount());
-                Console.WriteLine(contactBook.GetOverviewContact());
+                Console.WriteLine(contactBook);
             } else
             {
                 Console.WriteLine("No Contacts");
